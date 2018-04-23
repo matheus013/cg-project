@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>gl-matrix.js</file>
+        <file>ThreeJSLoader.js</file>
+        <file>jsonmodels.js</file>
+    </qresource>
+</RCC>
